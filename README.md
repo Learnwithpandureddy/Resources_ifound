@@ -5,18 +5,15 @@ A collection of useful learning resources for Computer Science students and deve
 
 This repository contains free learning materials, documentation, practice platforms, roadmaps, and other resources organized into folders for easy access.
 
-## Categories
 
-Explore the folders below to find resources related to different areas of Computer Science.
+## Browse Resources
 
-> Add your folder links below as you organize the repository.
+Explore the folders in this repository to find learning materials organized by topic.
 
-- [Python](./Python/)
-- [SQL](./SQL/)
-- [APIs](./API/)
-- [Web Development](./Web_Development/)
-- [Git and GitHub](./Git_GitHub/)
-- [Artificial Intelligence](./Artificial_Intelligence/)
+Each folder contains useful resources, references, documentation, and practice materials.
+
+**Updates:** This repository will be updated regularly with new resources as I discover and collect them.
+
 
 ## Purpose
 
