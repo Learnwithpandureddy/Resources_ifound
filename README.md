@@ -5,13 +5,6 @@ A collection of useful learning resources for Computer Science students and deve
 
 This repository contains free learning materials, documentation, practice platforms, roadmaps, and other resources organized into folders for easy access.
 
-
-## Browse Resources
-
-Explore the folders in this repository to find learning materials organized by topic.
-
-Each folder contains useful resources, references, documentation, and practice materials.
-
 **Updates:** This repository will be updated regularly with new resources as I discover and collect them.
 
 
